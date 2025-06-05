@@ -14,7 +14,8 @@
         <module>iped-carvers</module>
         <module>iped-geo</module>
         <module>iped-engine</module>
-        <module>iped-app</module>
+        <module>ipedtest-rename</module>
+        <module
     </modules>
     
     <properties>
